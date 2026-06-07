@@ -1,96 +1,221 @@
-<h1 align="center">🚀 Rahul | MERN Stack Developer</h1>
+<div align="center">
+  <img src="./header.png" alt="Header Banner" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Full_Stack_Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Open_Source_Contributor-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Tech_Enthusiast-orange?style=for-the-badge"/>
-</p>
+  <br />   
 
----
+  ### `$ whoami` → Full-Stack Developer · React.js · Next.js · TypeScript
 
-## 🚀 About Me  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+%7C+Node.js+%7C+TypeScript+%7C+MongoDB+%7C+Docker;Building+scalable+full-stack+applications...;Frontend+%7C+Backend+%7C+High-performance+APIs;Open+to+SDE+%2F+Full-Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
 
-👋 Hey, I'm **Rahul**! A **MERN Stack Developer** passionate about crafting **high-performance, scalable web applications**. I love writing **clean, efficient code** and solving **real-world problems** using modern web technologies.  
+  <br />
 
-### 🔥 **What I Do:**  
-- 🎨 **Front-End Magic:** Building sleek, responsive, and dynamic UIs with **React & Next.js**  
-- 🛠 **Back-End Engineering:** Crafting powerful, scalable APIs using **Node.js & Express**  
-- 📊 **Database Management:** Designing efficient NoSQL structures with **MongoDB**  
-- 🚀 **Performance Optimization:** Making apps **faster, more secure, and scalable**  
-- 🌍 **Open-Source Contribution:** Sharing knowledge & improving the developer ecosystem  
-
-### 🏆 **Core Principles I Follow:**  
-✔ **Keep it Clean** – Readable, maintainable, and scalable code 📜  
-✔ **User First** – UI should be intuitive, engaging, and accessible 🎯  
-✔ **Optimize Everything** – Speed, security, and scalability matter 💡  
-✔ **Always Learning** – Exploring **TypeScript, GraphQL, and Cloud Computing** 📚  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://rahull2509.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahullgangwar)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rahull2509)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahull2509)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulgangwar2625@gmail.com)
+</div>
 
 ---
 
-## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+## `> init profile`
+
+```yaml
+name        : Rahul Gangwar
+role        : Full-Stack Developer
+location    : Bareilly, India 📍
+focus       : Full-Stack Web Development · Modern UIs · Scalable Backends
+stack       : React.js · Next.js · Node.js · Express.js · TypeScript · MongoDB · Docker
+goal        : { 🎯 Goal: Secure a Paid Internship as a Full-Stack Developer in the next 2 months 𓊍 }
+status      : ✅ Open to Opportunities
+```
 
 ---
 
-## 📊 GitHub Stats
+## `> ls ./tech-stack`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahull2509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahull2509&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahull2509&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+### 🔤 Languages
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Protobuf](https://img.shields.io/badge/Protobuf-%23FF6F00.svg?style=flat-square&logo=google&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=framer&logoColor=blue)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%23244c5a.svg?style=flat-square&logo=google&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-%23FF6600.svg?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat-square)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+
+### 📚 Core CS
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-%2300599C.svg?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-%23FF6F00.svg?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-%2307405e.svg?style=flat-square)
+![OS](https://img.shields.io/badge/Operating%20Systems-%23316192.svg?style=flat-square)
+![Networks](https://img.shields.io/badge/Computer%20Networks-%23244c5a.svg?style=flat-square)
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `> cat experience.log`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahull2509&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+<details open>
+<summary><b>💼 Software Developer — VerifyDev</b> &nbsp;|&nbsp; <code>Jan 2026 – Mar 2026</code></summary>
 
----
+<br/>
 
-## 📈 Contribution Graph
+```diff
++ Led migration of production application from React.js to Next.js
++ Refactored 200+ files implementing modern routing architecture
++ Implemented Server-Side Rendering (SSR) improving SEO and performance
++ Contributed 25+ merged pull requests with 5000+ lines of code
++ Collaborated with developers to resolve production issues and improve UI/UX
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahull2509&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/rahullgangwar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/rahull2509"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a>
-<a href="https://github.com/rahull2509"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"/></a>
-</p> -->
+</details>
 
 ---
 
-## 👀 Profile Visitors
+## `> ls ./projects --verbose`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahull2509&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
+### 🔷 [KrishiMitra AI](https://github.com/rahull2509/hackathon_frontend) — AI-powered Agricultural Marketplace
+
+```text
+Stack: React.js • Node.js • MongoDB • Prisma ORM • Cloudinary • Google Gemini AI
+```
+
+> An innovative platform bridging technology and agriculture with **AI-driven solutions**.
+
+| Feature | Detail |
+|---|---|
+| 🤖 AI Integration | Google Gemini AI for crop advisory chatbot |
+| 🌦️ Live APIs | Weather & Mandi API integration |
+| 🔄 Workflows | Real-time auction workflows |
+| ⚡ Database | MongoDB with Prisma ORM |
 
 ---
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/rahull2509">Rahul</a> | Let's build something amazing together! 🚀</i>
-</p>
+
+### 🔷 [Weather Dashboard](https://github.com/rahull2509/weather-dashboard-react) — Real-time Weather Forecast App
+
+```text
+Stack: React.js • TypeScript • OpenWeatherMap API • Geolocation API
+```
+
+> High-performance weather application with **interactive animated UI**.
+
+| Feature | Detail |
+|---|---|
+| 🌍 Location | Geolocation API for precise tracking |
+| 🌤️ Live Data | Real-time weather forecasts via OpenWeatherMap API |
+| 🌗 Dynamic UI | Animated UI with dynamic day/night detection |
+| ⚡ Type Safety | Fully built with TypeScript |
+
+---
+
+### 🔷 [iNotebook](https://github.com/rahull2509/iNotebook-React) — Secure Cloud Notebook
+
+```text
+Stack: MERN Stack • JWT Authentication • MongoDB Atlas
+```
+
+> Cloud-based note management application with **robust security**.
+
+| Feature | Detail |
+|---|---|
+| 🔒 Security | JWT Authentication & Protected Routes |
+| 📝 Data Mgmt | Full CRUD Operations |
+| ☁️ Database | Cloud-hosted MongoDB Atlas |
+
+---
+
+## `> cat highlights.txt`
+
+```text
+🚀 Built and deployed 15+ Full-Stack Applications
+🏆 5th Rank at FU Nexathon 2026
+💻 5000+ Lines of Production Code Contributed
+⚡ 25+ Merged Pull Requests
+```
+
+---
+
+## `> git stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahull2509&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahull2509&theme=radical&border_radius=10&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahull2509&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" width="40%" />
+
+</div>
+
+---
+
+## `> echo $PHILOSOPHY`
+  
+```typescript
+// rahul.ts
+
+class Rahul {
+    public build: string = "scalable full-stack applications";
+    public design: string = "interactive & modern user interfaces";
+    public optimize: string = "seamless frontend & backend integration";
+
+   public getMotto(): string {
+    return "Build. Learn. Improve. Repeat.";
+}
+}
+```
+
+---
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────┐
+│  📬  rahulgangwar2625@gmail.com             │
+│  📍  Bareilly, India                        │
+│  🟢  Open to Full-Stack Internships & SDE   │
+│      Opportunities                          │
+└─────────────────────────────────────────────┘
+
+```
+
+*"Build. Learn. Improve. Repeat."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahull2509&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
