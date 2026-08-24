@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./header.png" alt="Header Banner" width="100%" />
 
-  <br />   
+  <br />
 
   ### `$ whoami` → Full-Stack Developer · React.js · Next.js · TypeScript
 
@@ -17,7 +17,6 @@
 </div>
 
 ---
-
 
 ## `> init profile`
 
@@ -110,20 +109,24 @@ status      : ✅ Open to Opportunities
 
 ## `> ls ./projects --verbose`
 
-### 🔷 [KrishiMitra AI](https://github.com/rahull2509/hackathon_frontend) — AI-powered Agricultural Marketplace
+### 🔷 [Krishi Fair](https://github.com/rahull2509/krishi-fair) — AI-powered Agricultural Marketplace
 
 ```text
-Stack: React.js • Node.js • MongoDB • Prisma ORM • Cloudinary • Google Gemini AI
+Stack: React 19 • Node.js • Express.js • MongoDB • Prisma • Gemini AI • Cloudinary
 ```
 
-> An innovative platform bridging technology and agriculture with **AI-driven solutions**.
+> Full-stack agricultural marketplace connecting **farmers and buyers** with AI-powered assistance, crop listings, bidding, and direct purchases.
 
 | Feature | Detail |
 |---|---|
-| 🤖 AI Integration | Google Gemini AI for crop advisory chatbot |
-| 🌦️ Live APIs | Weather & Mandi API integration |
-| 🔄 Workflows | Real-time auction workflows |
-| ⚡ Database | MongoDB with Prisma ORM |
+| 🌾 Marketplace | Crop listings, buying & selling |
+| 🔨 Bidding | Bidding, bid management & expiry |
+| 🤖 AI | Gemini-powered crop analysis & agricultural chatbot |
+| 🔐 KYC | Buyer verification & role-based access |
+| 🌦️ Agro | Weather, soil & irrigation insights |
+| 💬 Chat | Farmer-buyer communication |
+| 📊 Market | Market prices & trends |
+| 👨‍💼 Admin | Users, KYC & marketplace management |
 
 ---
 
@@ -185,7 +188,7 @@ Stack: MERN Stack • JWT Authentication • MongoDB Atlas
 ---
 
 ## `> echo $PHILOSOPHY`
-  
+
 ```typescript
 // rahul.ts
 
@@ -194,9 +197,9 @@ class Rahul {
     public design: string = "interactive & modern user interfaces";
     public optimize: string = "seamless frontend & backend integration";
 
-   public getMotto(): string {
-    return "Build. Learn. Improve. Repeat.";
-}
+    public getMotto(): string {
+        return "Build. Learn. Improve. Repeat.";
+    }
 }
 ```
 
@@ -211,7 +214,6 @@ class Rahul {
 │  🟢  Open to Full-Stack Internships & SDE   │
 │      Opportunities                          │
 └─────────────────────────────────────────────┘
-
 ```
 
 *"Build. Learn. Improve. Repeat."*
